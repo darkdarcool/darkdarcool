@@ -25,6 +25,7 @@ I mainly use visual studio code for my code editor, then put it on git, then rep
 
 I am also getting into 3-D game development on UNITY. I highly reccoment it, super good. The class I am taking is super good!
 
+I am mainly using visual studio code( I have live share for collaboration ) 
 
 Oh and BTW here are my stats:
 
