@@ -31,5 +31,5 @@ Oh and BTW here are my stats:
 
 ![Darkdarcool's github stats](https://github-readme-stats.vercel.app/api?username=darkdarcool)
 
-
+[![viewcounter](https://myviewcounts.rayhanadev.repl.co/viewcount/Git%20Views.svg)](https://myviewcounts.rayhanadev.repl.co/)
 > ###### I also gave in to making my stats a readme 0~0
