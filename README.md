@@ -1,1 +1,1 @@
-<img src = "./bio.png"></img>
+<img src = "./carbon.svg"></img>
