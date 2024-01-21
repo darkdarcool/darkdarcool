@@ -1,1 +1,2 @@
-Expert advice: If you feel compelled to leave a comment stating /* Definitely not a hack */, it's probably a good time to revisit your approach and strive for cleaner, more reliable code in the realm of enterprise readiness.
+hey i'm darkdarcool. i mainly use rust and typescript (my runtime of choice is deno). 
+check me out more on my [website](https://darkdarcool.tech)
